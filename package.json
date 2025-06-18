@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "@adraffy/blocksmith": "^0.1.52"
+    }
+}

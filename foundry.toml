@@ -1,0 +1,11 @@
+# https://book.getfoundry.sh/reference/config/overview
+
+[profile.default]
+
+remappings = [
+    "@ensdomains/ens-contracts=lib/ens-contracts",
+    "@openzeppelin/contracts=lib/openzeppelin-contracts/contracts"
+]
+
+# forge i ensdomains/ens-contracts
+# forge i openzeppelin/openzeppelin-contracts
